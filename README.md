@@ -1,7 +1,7 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- TOP GLOWING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:4FACFE,70:7000FF,100:00F2FE&height=230&section=header&text=AMMAD%20QAISER&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%26%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=00F2FE&strokeWidth=1.5" width="100%" alt="Ammad Qaiser Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:4FACFE,70:7000FF,100:00F2FE&height=230&section=header&text=AMMAD%20QAISER&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=00F2FE&strokeWidth=1.5" width="100%" alt="Ammad Qaiser Banner" />
 
   <!-- DYNAMIC NEON TYPING SVG CONSOLE -->
   <a href="https://ammad-qaiser-portfolio.vercel.app">
