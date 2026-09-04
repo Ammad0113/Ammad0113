@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,70:C77DFF,100:E0AAFF&height=220&section=header&text=AMMAD%20QAISER&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=C77DFF&strokeWidth=1.2" width="100%" alt="Ammad Qaiser Header" />
+  <!-- LIGHT PURPLE HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=220&section=header&text=AMMAD%20QAISER&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=58&descAlign=50&stroke=C4B5FD&strokeWidth=1.2" width="100%" alt="Ammad Qaiser Header" />
 
   <!-- DYNAMIC TERMINAL TYPING CONSOLE (NO EMOJIS) -->
   <a href="https://ammad-qaiser-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=780&height=50&lines=>+Data+Scientist+%7C+AI+%2B+Deep+Learning+Architect;>+Research+Intern+at+TUKL+Lab%2C+NUST+SEECS;>+BS+Data+Science+at+FAST-NUCES+Islamabad;>+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Parallel+NLP;>+Urdu+Handwritten+Character+CNN+Optimization;>+Available+for+AI%2C+ML+%2B+Data+Science+Roles" alt="Terminal Console" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&multiline=false&width=780&height=50&lines=>+Software+Engineering+Intern+at+Folio3+Software;>+Research+Intern+at+TUKL+Lab%2C+NUST+SEECS;>+BS+Data+Science+at+FAST-NUCES+Islamabad;>+Deep+Learning+%E2%80%A2+Full-Stack+AI+%E2%80%A2+Computer+Vision;>+Available+for+Software+Engineering+%26+AI%2FML+Roles" alt="Terminal Console" />
   </a>
 
   <br/><br/>
@@ -13,15 +13,15 @@
   <!-- STATUS AND SOCIAL BADGES (NO EMOJIS) -->
   <p align="center">
     <a href="mailto:ammadqaiser0113@gmail.com">
-      <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE-00F2FE?style=for-the-badge&labelColor=0d1117" alt="Status Badge" />
+      <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Status Badge" />
     </a>
     <a href="https://ammad-qaiser-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-4FACFE?style=for-the-badge&labelColor=0d1117" alt="Portfolio Badge" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-A78BFA?style=for-the-badge&labelColor=0d1117" alt="Portfolio Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/ammad-qaiser-95854029b">
+    <a href="https://www.linkedin.com/in/ammadqaiser">
       <img src="https://img.shields.io/badge/LINKEDIN-Ammad%20Qaiser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Badge" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Ammad0113&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge&base=0" alt="Views Counter" />
+    <img src="https://komarev.com/ghpvc/?username=Ammad0113&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge&base=0" alt="Views Counter" />
   </p>
 
 </div>
@@ -33,18 +33,24 @@
 ```yaml
 profile:
   name: "Ammad Qaiser"
-  domain: "Data Science, Machine Learning & Deep Learning"
-  education: "FAST-NUCES Islamabad (BS in Data Science)"
-  research: "TUKL Lab, NUST SEECS (Urdu Handwritten Character Recognition with CNNs)"
+  domain: "Data Science, Machine Learning & Full-Stack AI Engineering"
+  education: "FAST-NUCES Islamabad (BS in Data Science, CGPA 3.00)"
+  experience:
+    - organization: "Folio3 Software"
+      role: "Software Engineering Intern"
+      scope: "Full-stack web development, production frameworks, code reviews & agile workflows"
+    - organization: "TUKL Lab, NUST SEECS"
+      role: "Research Intern"
+      scope: "Urdu Handwritten Character Recognition using CNN architectures & data augmentation"
   core_competencies:
-    - "Neural Architectures (CNNs, MLPs, Sequence Models)"
+    - "Deep Learning & Neural Architectures (CNNs, MLPs, Sequence Models)"
+    - "Full-Stack Development (Next.js, React, FastAPI, Node.js, PostgreSQL)"
     - "High-Performance Computing (OpenMP, MPI, Parallel Systems)"
-    - "NLP Pipelines & Quantitative Financial Analytics"
-    - "Predictive Modeling & Statistical Inference"
-  status: "Available for Data Science, Machine Learning & Research Roles"
+    - "NLP Pipelines & Information Extraction"
+  status: "Available for Software Engineering, Data Science & AI/ML Roles"
 ```
 
-Data Scientist focused on machine learning, deep neural architectures, and distributed systems. Experience in laboratory environments optimizing Convolutional Neural Networks for non-Latin script recognition, building distributed parallel NLP pipelines with OpenMP and MPI, and designing relational data backends.
+Data Scientist and Software Engineer with industry experience at **Folio3 Software** building production full-stack web applications in agile environments, combined with laboratory research at **TUKL Lab (NUST SEECS)** optimizing Convolutional Neural Networks for non-Latin script recognition. Experienced in designing neural network pipelines, high-performance parallel computing with MPI/OpenMP, and relational databases.
 
 ---
 
@@ -59,8 +65,8 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-CNN%20%7C%20MLP-00F2FE?style=for-the-badge" alt="Neural Networks" />
-  <img src="https://img.shields.io/badge/NLP%20Pipelines-Text%20Mining-7000FF?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-CNN%20%7C%20MLP-8B5CF6?style=for-the-badge" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/NLP%20Pipelines-Text%20Mining-6D28D9?style=for-the-badge" alt="NLP" />
 </p>
 
 #### Programming Languages
@@ -71,7 +77,18 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
   <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Assembly%20x86-00F2FE?style=for-the-badge" alt="x86 Assembly" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Assembly%20x86-8B5CF6?style=for-the-badge" alt="x86 Assembly" />
+</p>
+
+#### Full-Stack Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-WebSockets-6D28D9?style=for-the-badge" alt="APIs" />
 </p>
 
 #### High-Performance Systems & Engineering Tools
@@ -81,17 +98,10 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
-
-#### Data Engineering & Analytics
-<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 </p>
 
 </div>
@@ -119,7 +129,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Efficient-Earnings-Call-Summarization-Risk-Extraction">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -133,7 +143,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Deep-Learning-Project-">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -147,7 +157,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/AI-Project-AeroNet">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -161,7 +171,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Movie-Community-Platform">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -175,7 +185,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/COAL-Project-PACMAN">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -189,7 +199,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/ADVANCED-STATISTICS-PROJECT">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -203,7 +213,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Smart-Traffic-Intersection-Simulator">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -217,7 +227,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
       </td>
       <td>
         <a href="https://github.com/Ammad0113/The-Network-Emulator">
-          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+          <img src="https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </td>
     </tr>
@@ -235,7 +245,7 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammad0113&theme=radical" width="100%" alt="Profile Details" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Ammad0113&theme=radical&hide_border=false&border_radius=8&border_color=00F2FE&background=0d1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Ammad0113&theme=radical&hide_border=false&border_radius=8&border_color=8B5CF6&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
@@ -263,15 +273,16 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
 
 ---
 
-### Education & Credentials
+### Professional Experience & Education
 
 <div align="center">
 
-| Institution / Authority | Program & Focus | Period / Status |
+| Organization / Authority | Role & Scope | Period / Status |
 | :--- | :--- | :--- |
-| **FAST-NUCES Islamabad** | **BS in Data Science** — Algorithms, Distributed Systems, ML & Statistical Inference | *2023 – Present* |
-| **TUKL Lab, NUST SEECS** | **Research Intern** — Urdu Handwritten Character Recognition with CNNs | *Jul – Aug 2025* |
-| **DeepLearning.AI** | **Deep Learning Specialization** (Coursera / Andrew Ng) — Neural Networks, CNNs & Sequence Models | *Certified* |
+| **Folio3 Software** | **Software Engineering Intern** — Full-stack web development with modern frameworks, code reviews & agile sprint workflows | *Jun – Aug 2026* |
+| **TUKL Lab, NUST SEECS** | **Research Intern** — Urdu Handwritten Character Recognition with CNNs, hyperparameter tuning & data augmentation | *Jul – Aug 2025* |
+| **FAST-NUCES Islamabad** | **BS in Data Science (CGPA: 3.00)** — Data Structures, Algorithms, Distributed Systems, ML & Databases | *2023 – Present* |
+| **DeepLearning.AI** | **Deep Learning Specialization** (Andrew Ng) — Neural Networks, CNNs & Sequence Models | *Certified* |
 | **Google** | **Advanced Data Analytics Professional Certificate** — Machine Learning, Regression & Statistics | *Certified* |
 | **FAST-NUCES (NASCON)** | **Data Visualization Award** — Visual Analytics & Business Intelligence | *Awarded* |
 
@@ -283,25 +294,25 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
 
 <div align="center">
 
-  <p>Available for collaboration on machine learning, deep learning research, and data science engineering roles.</p>
+  <p>Available for full-stack engineering, machine learning research, and data science opportunities.</p>
 
   <a href="mailto:ammadqaiser0113@gmail.com?subject=Opportunity%20Discussion%20-%20Ammad%20Qaiser">
     <img src="https://img.shields.io/badge/EMAIL-ammadqaiser0113%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ammad-qaiser-95854029b" target="_blank">
+  <a href="https://www.linkedin.com/in/ammadqaiser" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-Ammad%20Qaiser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ammad-qaiser-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Ammad0113/Ammad0113/blob/main/assets/Ammad_Qaiser_CV_Updated.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/UPDATED%20CV-VIEW%20%2F%20DOWNLOAD-9D4EDD?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
+    <img src="https://img.shields.io/badge/UPDATED%20CV-VIEW%20%2F%20DOWNLOAD-6D28D9?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
   </a>
 
   <br/><br/>
 
-  <!-- FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,70:C77DFF,100:E0AAFF&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <!-- LIGHT PURPLE FOOTER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=110&section=footer" width="100%" alt="Footer Banner" />
 
   <sub>Designed for <b>Ammad Qaiser</b> • All Systems Operational • 2026</sub>
 
