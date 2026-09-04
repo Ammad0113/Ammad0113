@@ -1,25 +1,25 @@
 <div align="center">
 
-  <!-- TOP GLOWING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:4FACFE,70:7000FF,100:00F2FE&height=230&section=header&text=AMMAD%20QAISER&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=00F2FE&strokeWidth=1.5" width="100%" alt="Ammad Qaiser Banner" />
+  <!-- HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:4FACFE,70:7000FF,100:00F2FE&height=220&section=header&text=AMMAD%20QAISER&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=00F2FE&strokeWidth=1.2" width="100%" alt="Ammad Qaiser Header" />
 
-  <!-- DYNAMIC NEON TYPING SVG CONSOLE -->
+  <!-- DYNAMIC TERMINAL TYPING CONSOLE (NO EMOJIS) -->
   <a href="https://ammad-qaiser-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00F2FE&center=true&vCenter=true&multiline=false&width=780&height=52&lines=%E2%9A%A1+Data+Scientist+%7C+AI+%26+Deep+Learning+Architect;%F0%9F%A7%A0+Research+Intern+%40+TUKL+Lab%2C+NUST+SEECS;%F0%9F%8F%9B%EF%B8%8F+BS+Data+Science+%40+FAST-NUCES+Islamabad;%F0%9F%9A%80+Parallel+NLP+%E2%80%A2+Neural+Architectures+%E2%80%A2+Computer+Vision;%F0%9F%94%A5+Urdu+Handwritten+Character+CNN+Optimization;%F0%9F%9F%A2+AVAILABLE+FOR+AI%2C+ML+%26+DATA+SCIENCE+OPPORTUNITIES!" alt="Ammad Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=780&height=50&lines=>+Data+Scientist+%7C+AI+%2B+Deep+Learning+Architect;>+Research+Intern+at+TUKL+Lab%2C+NUST+SEECS;>+BS+Data+Science+at+FAST-NUCES+Islamabad;>+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Parallel+NLP;>+Urdu+Handwritten+Character+CNN+Optimization;>+Available+for+AI%2C+ML+%2B+Data+Science+Roles" alt="Terminal Console" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- LIVE BLINKING / RADAR STATUS BADGES -->
+  <!-- STATUS AND SOCIAL BADGES (NO EMOJIS) -->
   <p align="center">
     <a href="mailto:ammadqaiser0113@gmail.com">
-      <img src="https://img.shields.io/badge/%E2%97%8F%20STATUS-ONLINE%20%2F%20OPEN%20FOR%20HIRE-00F2FE?style=for-the-badge&labelColor=0d1117" alt="Status Badge" />
+      <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE-00F2FE?style=for-the-badge&labelColor=0d1117" alt="Status Badge" />
     </a>
     <a href="https://ammad-qaiser-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-ammad--qaiser.vercel.app-4FACFE?style=for-the-badge&labelColor=0d1117" alt="Portfolio Badge" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-4FACFE?style=for-the-badge&labelColor=0d1117" alt="Portfolio Badge" />
     </a>
     <a href="https://www.linkedin.com/in/ammad-qaiser-95854029b">
-      <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-AMMAD%20QAISER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LINKEDIN-Ammad%20Qaiser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Badge" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Ammad0113&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge&base=0" alt="Views Counter" />
   </p>
@@ -28,43 +28,42 @@
 
 ---
 
-### 🚀 Executive Briefing
+### Executive Summary
 
 ```yaml
-identity:
-  engineer: "Ammad Qaiser"
-  discipline: "Data Science, Deep Learning & Parallel Computing"
-  institution: "FAST-NUCES Islamabad (BS Data Science)"
-  research_lab: "TUKL Lab, NUST SEECS (Deep Learning & Computer Vision)"
-  specialties:
+profile:
+  name: "Ammad Qaiser"
+  domain: "Data Science, Machine Learning & Deep Learning"
+  education: "FAST-NUCES Islamabad (BS in Data Science)"
+  research: "TUKL Lab, NUST SEECS (Urdu Handwritten Character Recognition with CNNs)"
+  core_competencies:
     - "Neural Architectures (CNNs, MLPs, Sequence Models)"
-    - "High-Performance Distributed Systems (OpenMP, MPI, CUDA)"
-    - "NLP Pipelines & Quantitative Financial Risk Mining"
-    - "End-to-End Predictive Modeling & Exploratory Analytics"
-  operating_status: "🟢 Actively seeking Data Scientist, ML Engineer & Research roles"
+    - "High-Performance Computing (OpenMP, MPI, Parallel Systems)"
+    - "NLP Pipelines & Quantitative Financial Analytics"
+    - "Predictive Modeling & Statistical Inference"
+  status: "Available for Data Science, Machine Learning & Research Roles"
 ```
 
-> **"Data Scientist crafting AI-powered solutions • Machine Learning • Deep Learning • Computer Vision • Always building, always learning."**  
-> Proven experience in research lab environments optimizing Convolutional Neural Networks for complex non-Latin script recognition (Urdu), building distributed parallel NLP pipelines with MPI/OpenMP, and designing full-stack analytical architectures.
+Data Scientist focused on machine learning, deep neural architectures, and distributed systems. Experience in laboratory environments optimizing Convolutional Neural Networks for non-Latin script recognition, building distributed parallel NLP pipelines with OpenMP and MPI, and designing relational data backends.
 
 ---
 
-### 🛠️ Intelligence Engine & Tech Stack Vault
+### Technical Stack
 
 <div align="center">
 
-#### 🧠 Artificial Intelligence & Modeling
+#### Machine Learning & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-CNN%20%7C%20MLP-00F2FE?style=for-the-badge&logo=brain&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-CNN%20%7C%20MLP-00F2FE?style=for-the-badge" alt="Neural Networks" />
   <img src="https://img.shields.io/badge/NLP%20Pipelines-Text%20Mining-7000FF?style=for-the-badge" alt="NLP" />
 </p>
 
-#### 💻 Core Programming Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -72,10 +71,10 @@ identity:
   <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Assembly%20x86-00F2FE?style=for-the-badge&logo=microchip&logoColor=black" alt="x86 Assembly" />
+  <img src="https://img.shields.io/badge/Assembly%20x86-00F2FE?style=for-the-badge" alt="x86 Assembly" />
 </p>
 
-#### ⚡ High-Performance Computing & Systems
+#### High-Performance Systems & Engineering Tools
 <p>
   <img src="https://img.shields.io/badge/MPI-Distributed%20Computing-blue?style=for-the-badge" alt="MPI" />
   <img src="https://img.shields.io/badge/OpenMP-Shared%20Memory-red?style=for-the-badge" alt="OpenMP" />
@@ -85,7 +84,7 @@ identity:
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-#### 📊 Data Analytics & Visualization
+#### Data Engineering & Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -99,24 +98,24 @@ identity:
 
 ---
 
-### 🏆 Flagship Projects & Engineering Showroom
+### Featured Repositories
 
 <table>
   <thead>
     <tr>
-      <th width="35%">Project & Architecture</th>
-      <th width="45%">Engineering Highlights & Impact</th>
-      <th width="20%">Repository / Code</th>
+      <th width="35%">Repository</th>
+      <th width="45%">Description & Architecture</th>
+      <th width="20%">Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <b>🚀 Hybrid Parallel NLP Summarization & Financial Risk Extraction</b><br/>
+        <b>Efficient-Earnings-Call-Summarization-Risk-Extraction</b><br/>
         <code>Python</code> <code>NLP</code> <code>OpenMP</code> <code>MPI</code> <code>C</code>
       </td>
       <td>
-        High-performance financial intelligence pipeline. Combines parallel OpenMP thread scaling and load-balanced MPI across nodes to ingest live earnings call transcripts, extract risk markers, and generate real-time sentiment summaries.
+        High-performance financial intelligence pipeline. Combines parallel OpenMP thread scaling and load-balanced MPI across nodes to process corporate earnings calls, extract risk markers, and compute risk metrics.
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Efficient-Earnings-Call-Summarization-Risk-Extraction">
@@ -126,11 +125,11 @@ identity:
     </tr>
     <tr>
       <td>
-        <b>🫀 Cardiovascular Risk Prediction Deep Learning Engine</b><br/>
+        <b>Deep-Learning-Project-</b><br/>
         <code>TensorFlow</code> <code>Keras</code> <code>CNN</code> <code>MLP</code>
       </td>
       <td>
-        Designed and benchmarked multi-layer perceptron (MLP) and custom convolutional architectures on multi-variate clinical datasets to predict cardiovascular anomalies with elevated sensitivity and precision metrics.
+        Predictive deep learning models for cardiovascular risk assessment. Formulated and benchmarked multi-layer perceptron (MLP) and convolutional architectures on clinical datasets.
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Deep-Learning-Project-">
@@ -140,11 +139,11 @@ identity:
     </tr>
     <tr>
       <td>
-        <b>🛸 AeroNet: Autonomous Drone Delivery & Fleet Optimizer</b><br/>
-        <code>Python</code> <code>A* Algorithm</code> <code>ML Forecasting</code>
+        <b>AI-Project-AeroNet</b><br/>
+        <code>Python</code> <code>A* Pathfinding</code> <code>Demand Forecasting</code>
       </td>
       <td>
-        AI-driven urban air logistics emulator. Formulated optimal flight paths avoiding dynamic weather obstacles using A* heuristic routing, integrated with demand prediction models for battery-efficient fleet dispatching.
+        AI-driven autonomous drone logistics emulator using A* heuristic pathfinding for obstacle avoidance and machine learning demand prediction for battery-efficient fleet dispatching.
       </td>
       <td>
         <a href="https://github.com/Ammad0113/AI-Project-AeroNet">
@@ -154,11 +153,11 @@ identity:
     </tr>
     <tr>
       <td>
-        <b>🎬 Movie Community & Relational Analytics Hub</b><br/>
+        <b>Movie-Community-Platform</b><br/>
         <code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>REST API</code>
       </td>
       <td>
-        Architected full-stack relational platform featuring normalized SQL schemas, user behavioral tracking, sentiment moderation, metrics dashboards, and optimized relational indexing for millisecond response times.
+        Full-stack relational community platform featuring normalized SQL schemas, user tracking, sentiment moderation, metrics dashboards, and indexed database queries for low-latency retrieval.
       </td>
       <td>
         <a href="https://github.com/Ammad0113/Movie-Community-Platform">
@@ -168,11 +167,11 @@ identity:
     </tr>
     <tr>
       <td>
-        <b>🕹️ Retro x86 Assembly PACMAN Engine</b><br/>
+        <b>COAL-Project-PACMAN</b><br/>
         <code>Assembly x86</code> <code>Hardware Interrupts</code> <code>VGA Memory</code>
       </td>
       <td>
-        Built directly on low-level x86 hardware interrupt vectors (`INT 10h`, `INT 16h`) and direct video memory writing. Implements real-time collision detection, ghost pathing AI, and zero-overhead arcade game loops.
+        Arcade game engine built in x86 assembly using hardware interrupt vectors (<code>INT 10h</code>, <code>INT 16h</code>) and direct video buffer memory rendering with real-time ghost navigation logic.
       </td>
       <td>
         <a href="https://github.com/Ammad0113/COAL-Project-PACMAN">
@@ -182,14 +181,42 @@ identity:
     </tr>
     <tr>
       <td>
-        <b>📈 Econometric Risk & Statistical Inference Engine</b><br/>
-        <code>R Language</code> <code>Hypothesis Testing</code> <code>Regression</code>
+        <b>ADVANCED-STATISTICS-PROJECT</b><br/>
+        <code>R Language</code> <code>Econometrics</code> <code>Hypothesis Testing</code>
       </td>
       <td>
-        Advanced mathematical framework in R executing multivariate regression modeling, residual diagnostic plots, heteroscedasticity testing, and predictive interval forecasting across demographic datasets.
+        Statistical inference and econometric modeling framework in R executing multivariate regression, residual diagnostic plots, heteroscedasticity testing, and predictive interval estimation.
       </td>
       <td>
         <a href="https://github.com/Ammad0113/ADVANCED-STATISTICS-PROJECT">
+          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Smart-Traffic-Intersection-Simulator</b><br/>
+        <code>C Language</code> <code>Scheduling</code> <code>Queuing Theory</code>
+      </td>
+      <td>
+        Multi-lane traffic queue simulator built in C, mapping dynamic scheduling metrics, priority queues, and timing adjustments to reduce intersection red-light latency.
+      </td>
+      <td>
+        <a href="https://github.com/Ammad0113/Smart-Traffic-Intersection-Simulator">
+          <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>The-Network-Emulator</b><br/>
+        <code>C++</code> <code>Dijkstra Algorithm</code> <code>FIFO Queues</code>
+      </td>
+      <td>
+        Object-oriented packet routing simulator in C++ utilizing Dijkstra's shortest path algorithm, FIFO queue scheduling, and dynamic topology routing updates.
+      </td>
+      <td>
+        <a href="https://github.com/Ammad0113/The-Network-Emulator">
           <img src="https://img.shields.io/badge/View_Repo-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repo" />
         </a>
       </td>
@@ -199,21 +226,24 @@ identity:
 
 ---
 
-### 📊 Live GitHub Telemetry & Activity Metrics
+### GitHub Activity & Statistics
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ammad0113&show_icons=true&theme=radical&hide_border=false&border_radius=10&border_color=00F2FE&bg_color=0d1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9" alt="Ammad GitHub Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammad0113&theme=radical" width="100%" alt="Profile Details" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Ammad0113&theme=radical&hide_border=false&border_radius=10&border_color=00F2FE&background=0d1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="Ammad GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=Ammad0113&theme=radical&hide_border=false&border_radius=8&border_color=00F2FE&background=0d1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad0113&layout=compact&theme=radical&hide_border=false&border_radius=10&border_color=00F2FE&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9" alt="Top Languages" width="85%" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammad0113&theme=radical" width="100%" alt="Repositories per Language" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammad0113&theme=radical" width="100%" alt="Contribution Statistics" />
       </td>
     </tr>
   </table>
@@ -221,52 +251,42 @@ identity:
 
 ---
 
-### 🐍 The Code Matrix: Live Contribution Grid
+### Contribution Matrix
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ammad0113/Ammad0113/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ammad0113/Ammad0113/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Ammad0113/Ammad0113/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+    <img alt="Contribution Grid Snake" src="assets/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-### 🎓 Academic Pedigree & Verified Credentials
+### Education & Credentials
 
 <div align="center">
 
-| Institution / Program | Focus & Achievement | Period / Recognition |
+| Institution / Authority | Program & Focus | Period / Status |
 | :--- | :--- | :--- |
-| 🏛️ **FAST-NUCES Islamabad** | **BS in Data Science** — Algorithms, Distributed Systems, ML & Statistical Inference | *2023 – Present* |
-| 🔬 **TUKL Lab, NUST SEECS** | **Research Intern** — Urdu Handwritten Character Recognition via CNNs & Deep Augmentation | *Jul – Aug 2025* |
-| 🏅 **DeepLearning.AI** | **Deep Learning Specialization** (Coursera / Andrew Ng) — Neural Networks, CNNs & Sequence Models | *Certified* |
-| 🏅 **Google** | **Advanced Data Analytics Professional Certificate** — Machine Learning, Regression & Statistics | *Certified* |
-| 🏆 **NASCON FAST** | **Data Visualization Award** — Advanced Analytical Storytelling & Visual Metrics | *Winner* |
+| **FAST-NUCES Islamabad** | **BS in Data Science** — Algorithms, Distributed Systems, ML & Statistical Inference | *2023 – Present* |
+| **TUKL Lab, NUST SEECS** | **Research Intern** — Urdu Handwritten Character Recognition with CNNs | *Jul – Aug 2025* |
+| **DeepLearning.AI** | **Deep Learning Specialization** (Coursera / Andrew Ng) — Neural Networks, CNNs & Sequence Models | *Certified* |
+| **Google** | **Advanced Data Analytics Professional Certificate** — Machine Learning, Regression & Statistics | *Certified* |
+| **FAST-NUCES (NASCON)** | **Data Visualization Award** — Visual Analytics & Business Intelligence | *Awarded* |
 
 </div>
 
 ---
 
-### ⚡ GitHub Trophies Showcase
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ammad0113&theme=radical&no-frame=false&margin-w=4&margin-h=4&column=7" alt="Ammad Trophies" />
-  </a>
-</div>
-
----
-
-### 📡 Terminal Contact Node: Let's Connect & Build
+### Contact & Connect
 
 <div align="center">
 
-  <p>Interested in collaborating on AI/ML projects, hiring me for roles, or discussing research?</p>
+  <p>Available for collaboration on machine learning, deep learning research, and data science engineering roles.</p>
 
   <a href="mailto:ammadqaiser0113@gmail.com?subject=Opportunity%20Discussion%20-%20Ammad%20Qaiser">
-    <img src="https://img.shields.io/badge/DIRECT%20EMAIL-ammadqaiser0113%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
+    <img src="https://img.shields.io/badge/EMAIL-ammadqaiser0113%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ammad-qaiser-95854029b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-Ammad%20Qaiser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -275,14 +295,14 @@ identity:
     <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://ammad-qaiser-portfolio.vercel.app/assets/Ammad_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20CV-RESUME%20PDF-7000FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+    <img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20PDF-7000FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
   </a>
 
   <br/><br/>
 
-  <!-- BOTTOM WAVING GLOWING FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:7000FF,70:4FACFE,100:00F2FE&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <!-- FOOTER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:7000FF,70:4FACFE,100:00F2FE&height=110&section=footer" width="100%" alt="Footer Banner" />
 
-  <sub>Designed with precision for <b>Ammad Qaiser</b> • All Systems Operational • © 2026</sub>
+  <sub>Designed for <b>Ammad Qaiser</b> • All Systems Operational • 2026</sub>
 
 </div>
