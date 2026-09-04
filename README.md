@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:4FACFE,70:7000FF,100:00F2FE&height=220&section=header&text=AMMAD%20QAISER&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=00F2FE&strokeWidth=1.2" width="100%" alt="Ammad Qaiser Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,70:C77DFF,100:E0AAFF&height=220&section=header&text=AMMAD%20QAISER&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20SCIENTIST%20%E2%80%A2%20AI%20%E2%80%A2%20DEEP%20LEARNING%20RESEARCHER&descAlignY=58&descAlign=50&stroke=C77DFF&strokeWidth=1.2" width="100%" alt="Ammad Qaiser Header" />
 
   <!-- DYNAMIC TERMINAL TYPING CONSOLE (NO EMOJIS) -->
   <a href="https://ammad-qaiser-portfolio.vercel.app">
@@ -294,14 +294,14 @@ Data Scientist focused on machine learning, deep neural architectures, and distr
   <a href="https://ammad-qaiser-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-ammad--qaiser.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://ammad-qaiser-portfolio.vercel.app/assets/Ammad_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20PDF-7000FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
+  <a href="https://github.com/Ammad0113/Ammad0113/blob/main/assets/Ammad_Qaiser_CV_Updated.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/UPDATED%20CV-VIEW%20%2F%20DOWNLOAD-9D4EDD?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
   </a>
 
   <br/><br/>
 
   <!-- FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,35:7000FF,70:4FACFE,100:00F2FE&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,70:C77DFF,100:E0AAFF&height=110&section=footer" width="100%" alt="Footer Banner" />
 
   <sub>Designed for <b>Ammad Qaiser</b> • All Systems Operational • 2026</sub>
 
